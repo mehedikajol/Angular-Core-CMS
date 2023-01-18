@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS.Core", "CMS.Core\CMS.Core.csproj", "{49A3AFD1-F57A-48E6-B517-D6F26A7D0C53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS.Service.Logging", "CMS.Service.Logging\CMS.Service.Logging.csproj", "{19A9F81B-455D-4BE6-B438-2E14511688CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{49A3AFD1-F57A-48E6-B517-D6F26A7D0C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49A3AFD1-F57A-48E6-B517-D6F26A7D0C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49A3AFD1-F57A-48E6-B517-D6F26A7D0C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A9F81B-455D-4BE6-B438-2E14511688CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A9F81B-455D-4BE6-B438-2E14511688CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A9F81B-455D-4BE6-B438-2E14511688CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A9F81B-455D-4BE6-B438-2E14511688CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

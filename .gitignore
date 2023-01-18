@@ -23,6 +23,7 @@ bin/
 Bin/
 obj/
 Obj/
+vs/
 
 # Visual Studio 2015 cache/options directory
 .vs/
@@ -229,3 +230,31 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+#ignore thumbnails created by windows
+Thumbs.db
+#Ignore files build by Visual Studio
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+CMS_CORE_NG/[Bb]in
+LoggingService/[Bb]in
+CMS_CORE_NG/obj
+LoggingService/obj
+CMS_CORE_NG/.vs
+LoggingService/.vs
