@@ -1,0 +1,6 @@
+CMS.Logging:
+1. Serilog.AspNetCore
+2. Serilog.Settings.Configuration
+3. Serilog.Sinks.Async
+4. Serilog.Sinks.Console
+5. Serilog.Sinks.File
