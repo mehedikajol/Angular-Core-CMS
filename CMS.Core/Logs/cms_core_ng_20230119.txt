@@ -1,0 +1,78 @@
+---#####---
+Timestamp = 1/19/2023 12:00:06 AM +06:00 | Level - Error
+---#####---
+Application: "CMS_Application"
+MachineName: "DESKTOP-5PCFRNO"
+CurrentManagedThreadId: 1
+OSVersion: "Microsoft Windows NT 10.0.19045.0"
+Version: "6.0.13"
+UserName: "Mehedi"
+ProcessId: 11836
+ProcessName: "CMS.Core"
+---#####---
+---#####---
+Timestamp = 1/19/2023 12:02:17 AM +06:00 | Level - Error
+---#####---
+SourceContext: "Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager"
+RequestId: "0HMNPFNB2BKBR:00000001"
+RequestPath: "/"
+ConnectionId: "0HMNPFNB2BKBR"
+Application: "CMS_Application"
+MachineName: "DESKTOP-5PCFRNO"
+CurrentManagedThreadId: 1
+OSVersion: "Microsoft Windows NT 10.0.19045.0"
+Version: "6.0.13"
+UserName: "Mehedi"
+ProcessId: 11836
+ProcessName: "CMS.Core"
+---#####---
+---#####---
+Timestamp = 1/19/2023 12:04:24 AM +06:00 | Level - Error
+---#####---
+SourceContext: "Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager"
+RequestId: "0HMNPFNB2BKBT:0000002D"
+RequestPath: "/"
+ConnectionId: "0HMNPFNB2BKBT"
+Application: "CMS_Application"
+MachineName: "DESKTOP-5PCFRNO"
+CurrentManagedThreadId: 1
+OSVersion: "Microsoft Windows NT 10.0.19045.0"
+Version: "6.0.13"
+UserName: "Mehedi"
+ProcessId: 11836
+ProcessName: "CMS.Core"
+---#####---
+
+---#####---
+Timestamp = 1/19/2023 12:08:04 AM +06:00 | Level - Error
+---#####---
+SourceContext: "Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager"
+RequestId: "0HMNPFQINUND3:00000001"
+RequestPath: "/"
+ConnectionId: "0HMNPFQINUND3"
+Application: "CMS_Application"
+MachineName: "DESKTOP-5PCFRNO"
+CurrentManagedThreadId: 1
+OSVersion: "Microsoft Windows NT 10.0.19045.0"
+Version: "6.0.13"
+UserName: "Mehedi"
+ProcessId: 4584
+ProcessName: "CMS.Core"
+---#####---
+
+---#####---
+Timestamp = 1/19/2023 12:08:57 AM +06:00 | Level - Error
+---#####---
+SourceContext: "Microsoft.AspNetCore.SpaProxy.SpaProxyLaunchManager"
+RequestId: "0HMNPFQINUND3:00000043"
+RequestPath: "/"
+ConnectionId: "0HMNPFQINUND3"
+Application: "CMS_Application"
+MachineName: "DESKTOP-5PCFRNO"
+CurrentManagedThreadId: 1
+OSVersion: "Microsoft Windows NT 10.0.19045.0"
+Version: "6.0.13"
+UserName: "Mehedi"
+ProcessId: 4584
+ProcessName: "CMS.Core"
+---#####---
