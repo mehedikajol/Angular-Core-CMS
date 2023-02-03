@@ -4,3 +4,6 @@ CMS.Logging:
 3. Serilog.Sinks.Async
 4. Serilog.Sinks.Console
 5. Serilog.Sinks.File
+
+
+This is just a text demo to check gitkraken git client
